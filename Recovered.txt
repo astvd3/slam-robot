@@ -1,0 +1,20 @@
+% File containing map information
+
+
+% Formatting:
+% wall x1 y1 x2 y2
+%   Order does not matter between the points
+
+
+wall -19.6 19.4 -19.6 -19.9
+wall -19.6 -19.9 19.8 -19.9
+wall 19.8 -19.9 19.8 19.4
+wall 19.8 19.4 -19.6 19.4
+wall -14.6 14.5 -9.8 -0.1
+wall -9.8 -0.1 -14.8 -14.6
+wall 0.0 14.6 -5 -0.0
+wall -5.1 -0.0 -0.0 -15.100
+wall 3.7 -15.1 7.8 -0.1
+wall 7.6 -0.2 4.3 14.6
+wall 16.1 14.9 11.4 0.0
+wall 11.4 0.0 14.5 -15.1

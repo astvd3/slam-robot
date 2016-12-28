@@ -1,0 +1,21 @@
+% File containing map information
+
+
+% Formatting:
+% wall x1 y1 x2 y2
+%   Order does not matter between the points
+% NaN separates objects
+
+
+start 2.733 -2.530
+goal -3.440 1.410
+wall -1.233 2.510 -1.233 0.050
+wall -1.233 0.050 0.009 0.050
+wall 0.009 0.050 0.009 2.510
+wall 0.009 2.510 -1.233 2.510
+NaN
+wall 1.216 -1.930 1.216 -1.510
+wall 1.216 -1.510 -2.888 -1.510
+wall -2.888 -1.510 -2.888 -1.930
+wall -2.888 -1.930 1.216 -1.930
+NaN
